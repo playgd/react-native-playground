@@ -1,2 +1,2 @@
-# react-native-playground
-Playing with React Native
+# React Native Playground
+> Playing with React Native
